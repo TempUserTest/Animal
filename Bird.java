@@ -1,5 +1,5 @@
 class Bird extends Animal {
-	void fly() {
+	void fly() throws UnSupportException {
 		System.out.println("I am flying");
 	}
 	void sing() {
