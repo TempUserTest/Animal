@@ -7,5 +7,8 @@ public class Solution {
 		Duck duck = new Duck();
 		duck.sing();
 		duck.swim();
+		Chicken chicken = new Chicken();
+		chicken.sing();
+		chicken.fly();
 	}
 }
