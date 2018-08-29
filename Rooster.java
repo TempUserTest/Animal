@@ -1,4 +1,4 @@
-class Rooster {
+class Rooster extends Animal{
 	Bird chicken;
 	
 	public Rooster() {
