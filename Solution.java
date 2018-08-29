@@ -4,5 +4,8 @@ public class Solution {
 		bird.walk();
 		bird.fly();
 		bird.sing();
+		Duck duck = new Duck();
+		duck.sing();
+		duck.swim();
 	}
 }
