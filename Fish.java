@@ -8,4 +8,7 @@ class Fish extends Bird {
 	void walk() throws UnSupportException {
 		throw new UnSupportException();
 	}
+	void size () {};
+	void color() {};
+	void character() {};
 }
